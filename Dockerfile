@@ -1,6 +1,6 @@
 # Scala and sbt Dockerfile
-# copy from: https://github.com/hseeberger/scala-sbt
-# Installs sbt and Docker client
+# Scala and SBT forked from: https://github.com/hseeberger/scala-sbt
+# Adds Docker client installation additionally
 
 # Pull base image
 FROM  openjdk:8
