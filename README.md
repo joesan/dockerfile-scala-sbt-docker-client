@@ -22,7 +22,7 @@ docker build --tag=joesan/scala-sbt-with-docker-client .
 ## Usage ##
 
 ```
-docker run -it --rm --name rust joesan/scala-sbt-with-docker-client
+docker run -it --rm --name scala-sbt-with-docker-client joesan/scala-sbt-with-docker-client
 ```
 
 ## License ##
